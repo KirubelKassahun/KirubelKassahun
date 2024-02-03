@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About with me:</h3>
 <p align="left">
 </p>
 
